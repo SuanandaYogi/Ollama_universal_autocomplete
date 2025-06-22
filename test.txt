@@ -1,0 +1,2 @@
+1. Introduction.
+Joint inversion in geophysics between seismic and control source electromagnetic (CSEM) data has been studied for years by many researchers. CSEM can measure the conductivity of the subsurface, which is related to the presence of hydrocarbons, while seismic data provide information on the elastic properties of the subsurface. The combination of these two types of data allows a better understanding of the subsurface and improves the accuracy of the subsurface. Meanwhile, CSEM has low resolution 
